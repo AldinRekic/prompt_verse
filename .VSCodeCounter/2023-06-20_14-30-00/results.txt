@@ -1,0 +1,89 @@
+Date : 2023-06-20 14:30:00
+Directory : c:\Users\Aldin Rekic\Desktop\Projects\share_prompts
+Total : 35 files,  3271 codes, 16 comments, 181 blanks, all 3468 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          2 |      2,296 |          0 |          2 |      2,298 |
+| JavaScript JSX     |         10 |        423 |          2 |         73 |        498 |
+| JavaScript         |         11 |        211 |          2 |         53 |        266 |
+| XML                |          8 |        179 |          0 |          7 |        186 |
+| CSS                |          1 |        131 |          8 |         31 |        170 |
+| Markdown           |          1 |         21 |          0 |         14 |         35 |
+| Properties         |          1 |          6 |          0 |          1 |          7 |
+| JSON with Comments |          1 |          4 |          4 |          0 |          8 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                    | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                       |         35 |      3,271 |         16 |        181 |      3,468 |
+| . (Files)                                                                               |          8 |      2,369 |          6 |         20 |      2,395 |
+| app                                                                                     |          9 |        226 |          0 |         67 |        293 |
+| app (Files)                                                                             |          2 |         37 |          0 |          7 |         44 |
+| app\api                                                                                 |          5 |        111 |          0 |         36 |        147 |
+| app\api\auth                                                                            |          1 |         38 |          0 |          9 |         47 |
+| app\api\auth\[...nextauth]                                                              |          1 |         38 |          0 |          9 |         47 |
+| app\api\prompt                                                                          |          3 |         61 |          0 |         23 |         84 |
+| app\api\prompt (Files)                                                                  |          1 |         12 |          0 |          4 |         16 |
+| app\api\prompt\[id]                                                                     |          1 |         35 |          0 |         14 |         49 |
+| app\api\prompt\new                                                                      |          1 |         14 |          0 |          5 |         19 |
+| app\api\users                                                                           |          1 |         12 |          0 |          4 |         16 |
+| app\api\users\[id]                                                                      |          1 |         12 |          0 |          4 |         16 |
+| app\api\users\[id]\posts                                                                |          1 |         12 |          0 |          4 |         16 |
+| app\create-prompt                                                                       |          1 |         45 |          0 |         10 |         55 |
+| app\profile                                                                             |          1 |         33 |          0 |         14 |         47 |
+| components                                                                              |          6 |        308 |          2 |         42 |        352 |
+| models                                                                                  |          2 |         38 |          0 |         10 |         48 |
+| public                                                                                  |          8 |        179 |          0 |          7 |        186 |
+| public\assets                                                                           |          8 |        179 |          0 |          7 |        186 |
+| public\assets\icons                                                                     |          5 |        137 |          0 |          2 |        139 |
+| public\assets\images                                                                    |          3 |         42 |          0 |          5 |         47 |
+| styles                                                                                  |          1 |        131 |          8 |         31 |        170 |
+| utils                                                                                   |          1 |         20 |          0 |          4 |         24 |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                | language           | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\.env                                | Properties         |          6 |          0 |          1 |          7 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\README.md                           | Markdown           |         21 |          0 |         14 |         35 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\app\api\auth\[...nextauth]\route.js | JavaScript         |         38 |          0 |          9 |         47 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\app\api\prompt\[id]\route.js        | JavaScript         |         35 |          0 |         14 |         49 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\app\api\prompt\new\route.js         | JavaScript         |         14 |          0 |          5 |         19 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\app\api\prompt\route.js             | JavaScript         |         12 |          0 |          4 |         16 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\app\api\users\[id]\posts\route.js   | JavaScript         |         12 |          0 |          4 |         16 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\app\create-prompt\page.jsx          | JavaScript JSX     |         45 |          0 |         10 |         55 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\app\layout.jsx                      | JavaScript JSX     |         25 |          0 |          4 |         29 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\app\page.jsx                        | JavaScript JSX     |         12 |          0 |          3 |         15 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\app\profile\page.jsx                | JavaScript JSX     |         33 |          0 |         14 |         47 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\components\Feed.jsx                 | JavaScript JSX     |         41 |          0 |         12 |         53 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\components\Form.jsx                 | JavaScript JSX     |         54 |          0 |          4 |         58 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\components\Nav.jsx                  | JavaScript JSX     |        123 |          2 |         12 |        137 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\components\Profile.jsx              | JavaScript JSX     |         22 |          0 |          3 |         25 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\components\PromptCard.jsx           | JavaScript JSX     |         60 |          0 |          8 |         68 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\components\Provider.jsx             | JavaScript JSX     |          8 |          0 |          3 |         11 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\jsconfig.json                       | JSON with Comments |          4 |          4 |          0 |          8 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\models\prompt.js                    | JavaScript         |         17 |          0 |          4 |         21 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\models\user.js                      | JavaScript         |         21 |          0 |          6 |         27 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\next.config.js                      | JavaScript         |         17 |          1 |          1 |         19 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\package-lock.json                   | JSON               |      2,273 |          0 |          1 |      2,274 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\package.json                        | JSON               |         23 |          0 |          1 |         24 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\postcss.config.js                   | JavaScript         |          6 |          0 |          1 |          7 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\public\assets\icons\copy.svg        | XML                |         14 |          0 |          0 |         14 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\public\assets\icons\link.svg        | XML                |         36 |          0 |          1 |         37 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\public\assets\icons\loader.svg      | XML                |         63 |          0 |          1 |         64 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\public\assets\icons\menu.svg        | XML                |         12 |          0 |          0 |         12 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\public\assets\icons\tick.svg        | XML                |         12 |          0 |          0 |         12 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\public\assets\images\grid.svg       | XML                |          4 |          0 |          1 |          5 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\public\assets\images\logo-text.svg  | XML                |         16 |          0 |          2 |         18 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\public\assets\images\logo.svg       | XML                |         22 |          0 |          2 |         24 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\styles\globals.css                  | CSS                |        131 |          8 |         31 |        170 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\tailwind.config.js                  | JavaScript         |         19 |          1 |          1 |         21 |
+| c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\utils\database.js                   | JavaScript         |         20 |          0 |          4 |         24 |
+| Total                                                                                   |                    |      3,271 |         16 |        181 |      3,468 |
++-----------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

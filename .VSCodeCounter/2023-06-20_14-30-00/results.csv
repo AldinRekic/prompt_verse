@@ -1,0 +1,37 @@
+"filename", "language", "JavaScript JSX", "JavaScript", "Markdown", "JSON", "JSON with Comments", "XML", "CSS", "Properties", "comment", "blank", "total"
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\.env", "Properties", 0, 0, 0, 0, 0, 0, 0, 6, 0, 1, 7
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\README.md", "Markdown", 0, 0, 21, 0, 0, 0, 0, 0, 0, 14, 35
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\app\api\auth\[...nextauth]\route.js", "JavaScript", 0, 38, 0, 0, 0, 0, 0, 0, 0, 9, 47
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\app\api\prompt\[id]\route.js", "JavaScript", 0, 35, 0, 0, 0, 0, 0, 0, 0, 14, 49
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\app\api\prompt\new\route.js", "JavaScript", 0, 14, 0, 0, 0, 0, 0, 0, 0, 5, 19
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\app\api\prompt\route.js", "JavaScript", 0, 12, 0, 0, 0, 0, 0, 0, 0, 4, 16
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\app\api\users\[id]\posts\route.js", "JavaScript", 0, 12, 0, 0, 0, 0, 0, 0, 0, 4, 16
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\app\create-prompt\page.jsx", "JavaScript JSX", 45, 0, 0, 0, 0, 0, 0, 0, 0, 10, 55
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\app\layout.jsx", "JavaScript JSX", 25, 0, 0, 0, 0, 0, 0, 0, 0, 4, 29
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\app\page.jsx", "JavaScript JSX", 12, 0, 0, 0, 0, 0, 0, 0, 0, 3, 15
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\app\profile\page.jsx", "JavaScript JSX", 33, 0, 0, 0, 0, 0, 0, 0, 0, 14, 47
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\components\Feed.jsx", "JavaScript JSX", 41, 0, 0, 0, 0, 0, 0, 0, 0, 12, 53
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\components\Form.jsx", "JavaScript JSX", 54, 0, 0, 0, 0, 0, 0, 0, 0, 4, 58
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\components\Nav.jsx", "JavaScript JSX", 123, 0, 0, 0, 0, 0, 0, 0, 2, 12, 137
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\components\Profile.jsx", "JavaScript JSX", 22, 0, 0, 0, 0, 0, 0, 0, 0, 3, 25
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\components\PromptCard.jsx", "JavaScript JSX", 60, 0, 0, 0, 0, 0, 0, 0, 0, 8, 68
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\components\Provider.jsx", "JavaScript JSX", 8, 0, 0, 0, 0, 0, 0, 0, 0, 3, 11
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\jsconfig.json", "JSON with Comments", 0, 0, 0, 0, 4, 0, 0, 0, 4, 0, 8
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\models\prompt.js", "JavaScript", 0, 17, 0, 0, 0, 0, 0, 0, 0, 4, 21
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\models\user.js", "JavaScript", 0, 21, 0, 0, 0, 0, 0, 0, 0, 6, 27
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\next.config.js", "JavaScript", 0, 17, 0, 0, 0, 0, 0, 0, 1, 1, 19
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\package-lock.json", "JSON", 0, 0, 0, 2273, 0, 0, 0, 0, 0, 1, 2274
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\package.json", "JSON", 0, 0, 0, 23, 0, 0, 0, 0, 0, 1, 24
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\postcss.config.js", "JavaScript", 0, 6, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\public\assets\icons\copy.svg", "XML", 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 14
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\public\assets\icons\link.svg", "XML", 0, 0, 0, 0, 0, 36, 0, 0, 0, 1, 37
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\public\assets\icons\loader.svg", "XML", 0, 0, 0, 0, 0, 63, 0, 0, 0, 1, 64
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\public\assets\icons\menu.svg", "XML", 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 12
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\public\assets\icons\tick.svg", "XML", 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 12
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\public\assets\images\grid.svg", "XML", 0, 0, 0, 0, 0, 4, 0, 0, 0, 1, 5
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\public\assets\images\logo-text.svg", "XML", 0, 0, 0, 0, 0, 16, 0, 0, 0, 2, 18
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\public\assets\images\logo.svg", "XML", 0, 0, 0, 0, 0, 22, 0, 0, 0, 2, 24
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\styles\globals.css", "CSS", 0, 0, 0, 0, 0, 0, 131, 0, 8, 31, 170
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\tailwind.config.js", "JavaScript", 0, 19, 0, 0, 0, 0, 0, 0, 1, 1, 21
+"c:\Users\Aldin Rekic\Desktop\Projects\share_prompts\utils\database.js", "JavaScript", 0, 20, 0, 0, 0, 0, 0, 0, 0, 4, 24
+"Total", "-", 423, 211, 21, 2296, 4, 179, 131, 6, 16, 181, 3468
